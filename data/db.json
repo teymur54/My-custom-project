@@ -1,0 +1,28 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "maker": "Toyota",
+      "model": "Prado",
+      "year": "2010"
+    },
+    {
+      "id": 2,
+      "maker": "Volkswagen",
+      "model": "Tiguan",
+      "year": "2018"
+    },
+    {
+      "id": 3,
+      "maker": "Chevrolet",
+      "model": "Malibu",
+      "year": "2022"
+    },
+    {
+      "id": 7,
+      "maker": "Mercedes",
+      "model": "E-Class",
+      "year": "2010"
+    }
+  ]
+}
